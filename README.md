@@ -6,6 +6,9 @@ This feature is one of the most important method to extract a feature of an audi
 
 Input: wav file (16kHz, mono channel) or directory of wav files.
 Output: wav file name = features. Separated files and features with equal symbol , Example: file1 = feature1, feature2, ......feature40.
+
+Feature Extraction Steps:
+
 ![image](https://user-images.githubusercontent.com/46157647/130319301-086a15dd-0c80-4cb2-b395-301142ee1250.png)
 
 
