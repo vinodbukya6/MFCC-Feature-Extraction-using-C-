@@ -1,7 +1,7 @@
 # MFCC-Feature-Extraction-using-C++
 
-MFCC feature extraction using c++ code.
-MFCC — Mel-Frequency Cepstral Coefficients
+
+MFCC — Mel-Frequency Cepstral Coefficients. 
 This feature is one of the most important method to extract a feature of an audio signal and is used majorly whenever working on audio signals.
 
 Input: wav file (16kHz, mono channel) or directory of wav files.
